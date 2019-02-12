@@ -3,7 +3,7 @@
     "version": "0.0.5",
     "description": "",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "README.md",
